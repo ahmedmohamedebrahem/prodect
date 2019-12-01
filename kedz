@@ -1,1 +1,383 @@
 
+
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from selerserum.com/v51/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 23 Nov 2019 12:19:24 GMT -->
+<head>
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript">
+        <!--
+        var url = $(location).attr('href'),
+
+            fparts = url.split("?"),
+            first_part = fparts[fparts.length-1];
+        if (screen.width <= 699) {
+            if(url == first_part)
+                document.location = "mobile.html";
+            else
+                document.location = "mobiled41d.html?"+first_part;
+        }
+        //-->
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="theme-color" content="">
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="icon" href="images/favicoFn.html">
+    <title>Seler</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link href="../../use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/media.css">
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '../../www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5C7D3M9');</script>
+    <!-- End Google Tag Manager -->
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5C7D3M9"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="container-fluid  pt-5">
+    <div class="container block1-container ">
+        <section class="row  justify-content-start">
+
+            <div class="col-md-7    ">
+                <div class="text-center mb-4">
+                    <img src="images/block1.1.png" alt="" class="img-fluid">
+                </div>
+                <div>
+                    <div class="block1-head mb-4">
+                        وداعاً لمشكلة تساقط <br> وفراغات الشعر
+                    </div>
+                </div>
+                <ul class="list-unstyled px-0   ">
+                    <li class="block1-items">
+                        اقوي حل متكامل لوقف تساقط الشعر واعادة نموة
+                    </li>
+                    <li class="block1-items">
+                        تركيبة مثاليـة من اقـوي مغذيـات الشعر الطبيعيـة
+                    </li>
+                    <li class="block1-items">
+                        يُغذي بعمق من الجذور للأطرف لشعر اكثر كثافة
+                    </li>
+                    <li class="block1-items">
+                        يُغنيك عن عمليات زرع الشعر المكلفة و المؤلمة
+                    </li>
+                </ul>
+                <div class="col-12">
+                    <a href="#" class="header-call-to-action       mx-auto     rush-to-order text-center">
+
+                        اطلب الآن
+                        <span>
+                            خصم 30% و الدفع عند الاستلام!
+                        </span>
+                    </a>
+                    <div class="block1-f mt-5">
+                        <span>افضل تغذية</span>
+                        <span>اقصى ترطيب</span>
+                        <span>اعلى حماية</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-5">
+                <div class="text-left   mt-5 ">
+                    <img src="images/block1.3.png" alt="" class="img-fluid">
+                </div>
+                <div class="text-left mt-5 pt-5">
+                    <img src="images/block1.4.png" alt="" class="img-fluid">
+                </div>
+            </div>
+        </section>
+    </div>
+</div>
+<div class="container-fluid block2-container pt-5 ">
+    <div class="container">
+        <section class="row">
+            <div class="col-md-6">
+                <div class="block2-head">
+                    سيلر اختيارك الأول <br> لإعادة الحياة لشعرك
+                </div>
+                <div>
+                    <img src="images/block2.7.png" alt="" class="img-fluid">
+                </div>
+            </div>
+            <div class="col-md-6">
+                <ul class="list-unstyled px-0 mt-3 ">
+                    <li class="block2-items row">
+                        <div class="col-2 text-center">
+                            <i class="fas fa-check"></i>
+                        </div>
+                        <div class="col-7">
+                            <div class="block2-content">
+                                يعطيكي نتائج سريعة وملحوظة من اول استعمال
+                            </div>
+                        </div>
+                        <div class="col-3 text-center">
+                            <img src="images/block2.2.png" alt="" class="img-fluid">
+                        </div>
+                    </li>
+                    <li class="block2-items row">
+                        <div class="col-2 text-center">
+                            <i class="fas fa-check"></i>
+                        </div>
+                        <div class="col-7">
+                            <div class="block2-content">
+                                يزيد كثافة شعرك ويملأ مناطق الفراغات بكفائه
+                            </div>
+                        </div>
+                        <div class="col-3 text-center">
+                            <img src="images/block2.3.png" alt="" class="img-fluid">
+                        </div>
+                    </li>
+                    <li class="block2-items row">
+                        <div class="col-2 text-center">
+                            <i class="fas fa-check"></i>
+                        </div>
+                        <div class="col-7">
+                            <div class="block2-content">
+                                ينظف بعمق ويُنعش فروة رأسك و يُعيد توازنها
+                            </div>
+                        </div>
+                        <div class="col-3 text-center">
+                            <img src="images/block2.4.png" alt="" class="img-fluid">
+                        </div>
+                    </li>
+                    <li class="block2-items row">
+                        <div class="col-2 text-center">
+                            <i class="fas fa-check"></i>
+                        </div>
+                        <div class="col-7">
+                            <div class="block2-content">
+                                يعالج كافة انواع العدوي المسببه لتساقط الشعر
+                            </div>
+                        </div>
+                        <div class="col-3 text-center">
+                            <img src="images/block2.5.png" alt="" class="img-fluid">
+                        </div>
+                    </li>
+                    <li class="block2-items row">
+                        <div class="col-2 text-center">
+                            <i class="fas fa-check"></i>
+                        </div>
+                        <div class="col-7">
+                            <div class="block2-content">
+                                يُشكل درع قوي لحمايه شعرك من عوامل الجو
+                            </div>
+                        </div>
+                        <div class="col-3 text-center">
+                            <img src="images/block2.6.png" alt="" class="img-fluid">
+                        </div>
+                    </li>
+
+                </ul>
+                <div class="mt-3 text-left">
+                    <a href="#" class="header-call-to-action       ml-auto     rush-to-order text-center">
+
+                        اطلب الآن
+                        <span>
+                            خصم 30% و الدفع عند الاستلام!
+                        </span>
+                    </a>
+                    <div class="block1-f my-3">
+                        <span>افضل تغذية</span>
+                        <span>اقصى ترطيب</span>
+                        <span>اعلى حماية</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</div>
+<div class="container-fluid block3-container py-5  ">
+    <div class="container">
+        <section class="row  ">
+             <div class="col-12">
+                 <div class="block3-head">
+                     <span></span>
+                     سيلر تركيبة فريدة من اغني مغذيات الشعر
+                     <span></span>
+                 </div>
+             </div>
+            <div class="col-6">
+                <div class="block3-content-container">
+                    <div class="block3-head2">
+                        Tea Tree Oil
+                    </div>
+                    ينشط الدورة الدموية بفروة الرأس ويفتح المسام المغلقة <br>
+                    يعالج كافه انواع العدوي والبكتيريا المسببه لتساقط الشعر
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="block3-content-container">
+                    <div class="block3-head2">
+                        Cedarwood Oil
+                    </div>
+                    يُعالج ترقق الشعر ويزيد سماكتة ليصبح اقوي وأمتن <br>
+                    يمتلك خواص مطهره ويعالج الإكزيما و حكه الرأس
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="block3-content-container">
+                    <div class="block3-head2">
+                        Olive Oil
+                    </div>
+                    يحارب الصلع الوراثي عن طريق منع هرمون DHT <br>
+                    غني بمضادات الاكسده مما يعزز صحة فروة الرأس
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="block3-content-container">
+                    <div class="block3-head2">
+                        Grape Fruit Oil
+                    </div>
+                    ينظف فروة الرأس ويخلصها من بقايا المواد الكميائية <br>
+                    يحمي خلايا الشعر من التلف ويمنع انسداد مسام الشعر
+                </div>
+            </div>
+        </section>
+    </div>
+</div>
+<div class="container-fluid block4-container py-4 ">
+    <div class="container">
+        <section class="row justify-content-center">
+            <div class="col-md-4">
+                <div class="block4-content ">
+                    <div class="block4-content mt-3  text-center">
+                        الحل المتكامل لوقف التساقط <br> واعادة الحياة لشعرك
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <a href="#" class="header-call-to-action       ml-auto     rush-to-order text-center">
+
+                    اطلب الآن
+                    <span>
+                            خصم 30% و الدفع عند الاستلام!
+                        </span>
+                </a>
+            </div>
+            <div class="col-md-4  ">
+                <div class="block4-content mt-3  text-center">
+                    الحل المتكامل لوقف التساقط <br> واعادة الحياة لشعرك
+                </div>
+            </div>
+        </section>
+    </div>
+</div>
+<div class="container-fluid thirteen-slider-container py-md-5">
+    <div class="container">
+        <section class="row  justify-content-center ">
+            <div class="col-md-8 row">
+                <div class="col-md-12  row">
+                    <div class="  col-12 ">
+                        <div class="block6-head">
+                            طريقة الاستخدام
+                        </div>
+                        <div class="block6-content">
+                           - ضعي ضغطة كاملة من السيروم علي شعرك <br>
+- دلكي فروة الرأس بالسيروم من 2 – 4 دقائق <br>
+- يستخدم مرة واحدة في اليوم ويفضل قبل النوم
+
+
+
+                        </div>
+                    </div>
+                    <div class="col-md-6 mt-5">
+                        <div class="block6-head2    ">
+                            دائما ما ينصح به اطباء الجلدية <br> وخبراء العناية بالشعر
+                        </div>
+                        <div class="mt-5">
+                            <img src="images/block4.1.png" alt="Product" class="img-fluid">
+                            <img src="images/block6.1.png" alt="Product" class=" mt-3 img-fluid">
+                        </div>
+                    </div>
+                    <div class="col-md-6 mt-5 px-5 ">
+                        <img src="images/block4.2.png" alt="Product" class="img-fluid">
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-12  col-md-4    text-center" >
+
+                <div class="form-count-down mx-auto mt-3 mb-5">
+                    <div class="block1-left-head text-center mt-4">
+                        باقى من العرض
+
+                    </div>
+                    <div class="the-final-countdown form">
+                        <p class="seconds"   ></p>
+                        <p class="minutes" ></p>
+                        <p class="hours"  ></p>
+
+                    </div>
+                    <div class="time-spec form text-center">
+                        <span >
+                        Seconds
+                        </span>
+                        <span>
+                            Minutes
+                        </span>
+                        <span>
+                             Hours
+                        </span>
+                    </div>
+                </div>
+                <div class="text-center div-form-container mb-3 pb-4 ">
+                    <form class="form-container"   method="POST" id="contact-form"
+                          action="javascript: SubmitForm()" onsubmit="return validateForm()" role="form"  >
+                        <div class="form-group">
+                            <div class="block4-form-header">
+                                احصل  الان علي سيلر <br>
+                            </div>
+                            <div class=" my-4 px-3">
+                                <img src="images/block5.2.png" class="img-fluid" alt="">
+                            </div>
+                        </div>
+                        <div class="form-group mb-4">
+                            <input class="form-control" type="text" name="entry.1924297825" placeholder="الاسم"
+                                   required>
+                        </div>
+                        <div class="form-group mb-4">
+                            <input class="form-control" type="number" minlength="11" maxlength="11"   data-label="Phone" name="entry.615345420" id="form-phone"
+                                   placeholder="رقم الهاتف" required>
+                        </div>
+                        <input type="hidden" name="entry.1260794900" id="country">
+                        <input type="hidden" name="entry.510833489" id="angle" value="Women angle">
+                        <input type="hidden" name="entry.180081993" id="city">
+                        <input type="hidden" name="entry.1859991373" id="i">
+                        <input type="hidden" name="entry.1060324766" value="v51">
+                        <input type="hidden" name="entry.1339825511" id="article">
+                        <input type="hidden" name="entry.49071934" value="Computer">
+                        <div class="clearfix"></div>
+
+                        <button  id="btnSubmit" class="btn btn-block mx-auto submit-button" type="submit">
+                            اطلب الان
+                        </button>
+
+                    </form>
+                    <div class="block1-f my-3 text-center">
+                        <span>افضل تغذية</span>
+                        <span>اقصى ترطيب</span>
+                        <span class="m-0">اعلى حماية</span>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+    </div>
+</div>
+<script src="js/jquery.validate.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/plugin.min.js"></script>
+</body>
+
+
+<!-- Mirrored from selerserum.com/v51/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 23 Nov 2019 12:19:34 GMT -->
+</html>
